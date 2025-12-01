@@ -1,0 +1,30 @@
+body {
+  margin:0;
+  font-family:Arial;
+  background:white;
+}
+
+header {
+  padding:20px;
+  text-align:center;
+  font-size:24px;
+  background:white;
+  border-bottom:1px solid white;
+}
+
+.grid {
+  column-count:4;
+  column-gap:15px;
+  padding:20px;
+}
+
+.item {
+  margin-bottom:15px;
+  break-inside:avoid;
+}
+
+.item img {
+  width:100%;
+  border-radius:10px;
+  display:block;
+}

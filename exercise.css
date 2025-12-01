@@ -1,0 +1,13 @@
+body {
+    padding: 20px;
+    margin: 0;
+
+
+}
+.container{
+    display: grid;
+    gap: 20px;
+}
+@media (max-width: 728px){
+
+}
